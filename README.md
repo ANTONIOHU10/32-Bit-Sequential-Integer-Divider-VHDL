@@ -1,4 +1,3 @@
-# 32-Bit-Sequential-Integer-Divider-VHDL
 
 # 32-Bit Sequential Integer Divider in VHDL
 
